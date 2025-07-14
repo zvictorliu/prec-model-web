@@ -1,0 +1,13 @@
+.app-header {
+  background-color: #f8f8f8;
+  padding: 10px;
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+}
+
+.app-header h1 {
+  color: black;
+  width: 100%;
+  text-align: center;
+}
